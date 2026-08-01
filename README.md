@@ -32,6 +32,7 @@ Robot-Control-Panel/
 │── README.md
 ├── interface.png
 ├── database.png
+├── getstate.png
 ```
 
 ## Setup
