@@ -52,3 +52,8 @@ Robot-Control-Panel/
 ### Database
 
 ![Database](database.png)
+
+### Get State API
+get_state.php
+
+![Get State](getstate.png)
