@@ -30,9 +30,8 @@ Robot-Control-Panel/
 │── update_command.php
 │── setup.sql
 │── README.md
-└── images/
-    ├── interface.png
-    └── database.png
+├── interface.png
+├── database.png
 ```
 
 ## Setup
@@ -48,8 +47,8 @@ Robot-Control-Panel/
 
 ### User Interface
 
-![Interface](images/interface.png)
+![Interface](interface.png)
 
 ### Database
 
-![Database](images/database.png)
+![Database](database.png)
