@@ -27,6 +27,7 @@ This project is a web-based robot control panel developed using HTML, CSS, JavaS
 Robot-Control-Panel/
 │── index.html
 │── db.php
+│── get_state.php
 │── update_command.php
 │── setup.sql
 │── esp32_code.ino
