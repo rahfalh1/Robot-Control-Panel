@@ -7,8 +7,7 @@ const char* password = "";
 unsigned long lastTime = 0;
 unsigned long interval = 2000;
 
-String serverURL = "http://192.168.8.187/Robot-Control-Panel-main/get_state.php";
-
+String serverURL = "http://YOUR_PC_IP/Robot-Control-Panel-main/get_state.php";
 void setup() {
   Serial.begin(115200);
 
